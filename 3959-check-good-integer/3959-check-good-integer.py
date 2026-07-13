@@ -9,4 +9,3 @@ class Solution:
         if (sqsu-dgsu)>=50:
             return True
         return False
-
